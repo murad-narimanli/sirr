@@ -33,6 +33,7 @@
       <change afterPath="$PROJECT_DIR$/../../testtask/src/components/Pages/Favorites/Favorites.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../testtask/src/components/Pages/MyCourses/MyCourses.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../text/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615805779963</updated>
-      <workItem from="1615805781154" duration="5122000" />
+      <workItem from="1615805781154" duration="5177000" />
     </task>
     <servers />
   </component>
